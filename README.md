@@ -1,2 +1,3 @@
 # Blizzz
 Bot users
+.menu
